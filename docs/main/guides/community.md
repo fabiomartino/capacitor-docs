@@ -20,6 +20,8 @@ slug: /guides/community
 
 [Using the Capacitor in Vue.js app &#8250;](https://akhromieiev.com/tutorials/using-capacitor-in-vue-js-app/)
 
+[How to Build a Native Mobile App with Next.js and Capacitor &#8250;](https://enesien.com/blog/nextjs-capacitor-native-mobile-app)
+
 ## APIs
 
 [Camera: Building an Ionic Framework Camera App](/main/guides/ionic-framework-app.md)
@@ -49,3 +51,7 @@ slug: /guides/community
 [Google Login in Capacitor Apps with Ionic React &#8250;](https://enappd.com/blog/google-login-in-ionic-react-capacitor-apps/122)
 
 [Twitter Login in Capacitor Apps with Ionic React &#8250;](https://enappd.com/blog/twitter-login-in-ionic-react-capacitor-app/121)
+
+[The Push Notifications Guide for Capacitor &#8250;](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
+
+[Developer Documentation for integrating the Docutain Scanner SDK &#8250;](https://docs.docutain.com/docs/capacitor/intro)
